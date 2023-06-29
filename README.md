@@ -4,7 +4,7 @@ Sobre mim:
 - 💞️ Era web designer, mas me apaixonei pela programação
 - 📫 Como me achar:
 - Instagram @_mmiav
-- LinkedIn mia-nascimento-8b9a02110
+- LinkedIn (https://www.linkedin.com/in/mia-nascimento-152b73274/)
 
 <!---
 ohnomavi/ohnomavi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
