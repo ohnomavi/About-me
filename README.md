@@ -1,5 +1,5 @@
 Oiee, sou a Mia! Estudante de Análise e Desenvolvimento de Sistemas e no momento sou dev Java jr no SuperApp Inter.
-Trabalho com microsseviços, arquiteturas variadas e um pouco de fron-end React no meu dia-a-dia.
+Trabalho com microsseviços, arquiteturas variadas e um pouco de front-end React no meu dia-a-dia.
 Sobre mim:
 - 🌱 No momento estou aprendendo Python e C#
 - 💞️ Era web designer, mas me apaixonei pela programação
